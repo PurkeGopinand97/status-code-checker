@@ -1,0 +1,8 @@
+{
+  "name": "status-code-checker",
+  "version": "1.0.0",
+  "description": "HTTP status code and redirect checker",
+  "engines": {
+    "node": ">=18"
+  }
+}
